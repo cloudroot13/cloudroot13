@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">oi👋! meu nome é gabriel</h2>
 
 ###
 
@@ -46,8 +46,16 @@
 
 ###
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cloudroot13/cloudroot13/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cloudroot13/cloudroot13/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cloudroot13/cloudroot13/output/pacman-contribution-graph.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/cloudroot13/cloudroot13/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cloudroot13.cloudroot13&"  />
+</div>
 
 ###
